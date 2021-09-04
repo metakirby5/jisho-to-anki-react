@@ -4,8 +4,8 @@
   "deck": "Japanese::Vocabulary",
   "tags": "jisho-to-anki",
   "fields": {
-    "meaning": "Meaning",
+    "word": "Expression",
     "reading": "Reading",
-    "word": "Expression"
+    "meaning": "Meaning"
   }
 }
