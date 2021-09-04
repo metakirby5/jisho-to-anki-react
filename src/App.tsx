@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import styles from './App.module.sass';
+import React from "react";
+import logo from "./logo.svg";
+import styles from "./App.module.sass";
 
 export default function App() {
   return (
